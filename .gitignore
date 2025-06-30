@@ -1,0 +1,20 @@
+# Ignore specific directories
+_downloads/
+_images/
+_sources/
+_static/
+about/
+classes/
+community/
+contributing/
+getting_started/
+models/
+tutorials/
+
+# Ignore specific files
+404.html
+genindex.html
+objects.inv
+robots.txt
+search.html
+searchindex.js
